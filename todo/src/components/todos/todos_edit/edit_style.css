@@ -1,0 +1,14 @@
+.edit_container{
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.edit_container input{
+    margin-bottom: 15px;
+}
+
+.edit_container button{
+    height: 35px;
+}

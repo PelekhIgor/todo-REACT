@@ -1,0 +1,16 @@
+.todos_container{
+    width: 50%;
+    min-width: 250px;
+    max-width: 590px;
+    height: 500px;
+    padding: 10px;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 2px solid darkgray;
+    flex-direction: column;
+}
+.main_container{
+    display: flex;
+}
